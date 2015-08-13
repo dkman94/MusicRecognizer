@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/deepakkumar/Documents/Work/ACRCloudSDKDemo/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ACRCloudSDKDemo</string>
+    <string name="cancel">取消</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="recording">正在录音</string>
+    <string name="start">开始</string>
+    <string name="volume">音量:</string>
+
+</resources>
